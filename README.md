@@ -37,11 +37,10 @@ If you use any part of this code or use ideas mentioned in the paper, please cit
 @article{Siddiqui_FExGAN-Meta_2022,
   author = {{Siddiqui}, J. Rafid},
   title = {{FExGAN-Meta: Facial Expression Generation with Meta-Humans}},
-  journal = {ArXiv e-prints},
-  archivePrefix = "arXiv",
   keywords = {Deep Learning, GAN, Facial Expressions},
   year = {2022}
-  url = {http://arxiv.org/abs/2201.09061},
+  DOI: 10.31219/osf.io/ygdrt
+  url = {https://osf.io/ygdrt}
 }
 
 ```
