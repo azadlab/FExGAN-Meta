@@ -4,9 +4,9 @@
 
 This is the demo of the FExGAN-Meta proposed in the following article:
 
-[FExGAN-Meta: Facial Expression Generation with Meta-Humans](https://www.arxiv.com)
+[FExGAN-Meta: Facial Expression Generation with Meta-Humans](https://osf.io/ygdrt)
 
-FExGAN-Meta is the extension of [FExGAN](https://osf.io/ygdrt). It takes input an image of Meta-Human and a vector of desired affect (e.g. angry,disgust,sad,surprise,joy,neutral and fear) and converts the input image to the desired emotion while keeping the identity of the original image.
+FExGAN-Meta is the extension of [FExGAN](https://arxiv.org/abs/2201.09061v2). It takes input an image of Meta-Human and a vector of desired affect (e.g. angry,disgust,sad,surprise,joy,neutral and fear) and converts the input image to the desired emotion while keeping the identity of the original image.
 
 ![FExGAN-Meta GIF Demo](results.png)
 
