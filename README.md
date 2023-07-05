@@ -40,8 +40,9 @@ If you use any part of this code or use ideas mentioned in the paper, please cit
   author = {{Siddiqui}, J. Rafid},
   title = {{FExGAN-Meta: Facial Expression Generation with Meta-Humans}},
   keywords = {Deep Learning, GAN, Facial Expressions},
-  year = {2022}
-  DOI: 10.31219/osf.io/ygdrt
+  year = {2022},
+  archivePrefix = "arXiv:2203.05975",
+  DOI: 10.31219/osf.io/ygdrt,
   url = {https://osf.io/ygdrt}
 }
 
